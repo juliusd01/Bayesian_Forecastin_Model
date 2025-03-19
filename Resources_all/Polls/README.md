@@ -1,0 +1,1 @@
+The polls are obtained via API from dawum (https://dawum.de/Bundestag/). I use a script from GitHub to pull the latest poll data (see https://github.com/kennell/dawum-to-csv).

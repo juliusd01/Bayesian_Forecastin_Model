@@ -1,0 +1,7 @@
+pymc
+ipywidgets
+arviz
+matplotlib
+numpy
+pandas
+ipywidgets
